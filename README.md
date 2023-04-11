@@ -1,12 +1,5 @@
 # 🍙 Creating a Rice Disease Classifier using Open Source Data and Computer Vision 
 
-## Rough Sketch of the Output
-
-
-https://user-images.githubusercontent.com/73325913/231137820-04075256-a7f5-4033-8879-879c356ee8a1.mp4
-
-
-
 ## 📝 Contribution Guidelines 
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
@@ -58,3 +51,8 @@ https://user-images.githubusercontent.com/73325913/231137820-04075256-a7f5-4033-
 - Results           - Folder to store final analysis modelling results for the project.
 
 
+
+## Rough Sketch of the Output
+
+
+https://user-images.githubusercontent.com/73325913/231137820-04075256-a7f5-4033-8879-879c356ee8a1.mp4
